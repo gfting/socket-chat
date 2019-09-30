@@ -1,0 +1,22 @@
+{
+  "name": "socket-chat",
+  "version": "1.0.0",
+  "description": "Chat application using socket.io to communicate between McTyeire and Osaka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfting/socket-chat.git"
+  },
+  "author": "Gabriel Ting <gabrielfting@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gfting/socket-chat/issues"
+  },
+  "homepage": "https://github.com/gfting/socket-chat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
